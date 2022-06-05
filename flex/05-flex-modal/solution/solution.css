@@ -51,18 +51,21 @@ body {
 button {
   padding: 8px 16px;
   border-radius: 8px;
+  
 }
 
 button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
+  
 }
 
 button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+  
 }
 
 /* SOLUTION: */
